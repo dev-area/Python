@@ -1,0 +1,238 @@
+Afghanistan,2992898,Kabul,1424400,Asia,1919,Aphgani,Islam,Pashtu,Persian
+Albania,3200001,Tirana,251000,Europe,1912,Lek,Islam,Albanian,Greek
+Algeria,32531853,Algiers,1507241,Africa,1962,Dinar,Sunni Muslim,Arabic,Berber,French
+Andorra,64000,Andorra La Vella,23000,Europe,1278,Euro,Christianity,French,Catalan,Spanish
+Angola,14284000,Luanda,4534000,Africa,1975,New Kwanza,Traditional Beliefs,Portuguese,Bantu
+Anguilla,12500,Anguilla,?,Caribbean,-,East Caribbean Dollar,Christianity,English
+Antarctica,0,-,-,Antarctica,1961,-,-,-
+Antigua and Barbuda,68722,St. Johns,23500,Caribbean,-,East Caribbean Dollar,Christianity,English
+Arctica,0,-,-,Arctic Region,-,-,-,-
+Argentina,38970000,Buenos Aires,3922829,Latin America,1816,Peso,Christianity,Spanish
+Armenia,2982904,Yerevan,1462700,Asia,1991,Dram,Christianity,Armenian,Russian
+Aruba,71218,Oranjestad,?,Caribbean,-,Aruban Guilder,Catholicism,Dutch,Papiamento,English,Spanish
+Australia,20200000,Canberra,310000,Oceania,1901,Australian Dollar,Anglican,English
+Austria,8115000,Vienna,1987577,Europe,1918,Euro,Christianity,German
+Azerbaijan,7911974,Baku,2118600,Asia,1991,Manat,Islam,Azerbaijani,Russian
+Bahamas,303611,Nassau,222200,North America,1973,Bahamian Dollar,Christianity,English
+Bahrain,688345,Al-Manamah,149900,Middle East,1971,Bahrain Dinar,Islam,Arabic,Farsi,Urdu
+Bangladesh,158760000,Dhaka,5731000,Asia,1971,Taka,Islam,Bengali
+Barbados,276607,Bridgetown,98900,Caribbean,1966,Barbadian Dollar,Christianity,English
+Bielarus,9800000,Minsk,1769500,Europe,1991,Bielarussion Ruble,Orthodox,Bielarussian,Russian
+Belgium,10445852,Brussels,737966,Europe,1830,Euro,Catholicism,Dutch,French,German
+Belize,266440,Belmopan,8700,Latin America,1981,Belizean Dollar,Christianity,English,Spanish,Creole
+Benin,7460025,Porto-Novo,231600,Africa,1960,CFA Franc,Islam,French,Yoruba
+Bermuda,64482,Hamilton,?,North America,-,Bermudian Dollar,Christianity,English,Portuguese
+Bhutan,2232291,Thimphu,60200,Asia,1949,Bhutan Ngultrum,Buddhism,Dzongkha
+Bolivia,8857870,La Paz,869400,Latin America,1825,Boliviano,Catholicism,Spanish,Aymara,Quechua
+Bosnia and Herzegovina,4025476,Sarajevo,581500,Europe,1992,Mark,Christianity,Bosnian,Serbian,Croatian
+Botswana,1563267,Gaborone,195000,Africa,1966,Pula,Christianity,English,Setswana
+Brazil,186112794,Brasilia,2567709,Latin America,1822,Real,Christianity,Portuguese
+Brunei,343653,Bandar Seri Begawan,78000,Asia,1984,Brunei Dollar,Islam,Malay,English,Chinese
+Bulgaria,7537929,Sofia,1217024,Europe,1908,Leva,Orthodoxy,Bulgarian
+Burkina Faso,13925313,Ouagadougou,1441514,Africa,1960,CFA Franc,Traditional Beliefs,French
+Burundi,6370714,Bujumbara,336628,Africa,1962,Burundi Franc,Christianity,Kirundi,French
+Cambodia,13363421,Phnom Penh,1169800,Asia,1953,Riel,Buddhism,Khmer,English,French
+Cameroon,16746179,Yaounde,1274300,Africa,1960,CFA Franc,Christianity,French,English,Bantu
+Canada,32805041,Ottawa,1163900,North America,1867,Canadian Dollar,Christianity,English,French
+Cape Verde,415294,Praia,99400,Africa,1975,CV Escudo,Catholicism,Portuguese,Crioulo
+Cayman Islands,41934,George Town,?,Caribbean,1963,Cayman Dollar,Christianity,English
+Central African Republic,3683538,Bangui,81000,Africa,1960,CFA Franc,-,French,Sangho
+Chad,9253493,H'Djamena,500000,Africa,1960,CFA Franc,Islam,Arabic,French
+Chile,16136137,Santiago,8236300,Latin America,1810,Peso,Christianity,Spanish
+China,1300667000,Beijing,9800000,Orient,-1523,Yuan,Buddhism;Taoism,Mandarin,Cantonese
+Christmas Island,396,The Settlement,?,Oceania,-,Australian Dollar,Buddhism;Muslim,English,Chinese,Malay
+Cocos Island,629,West Island,?,Oceania,-,Australian Dollar,Islam,Malay,English
+Colombia,44531434,Bogota,6819696,Latin America,1810,Peso,Christianity,Spanish
+Comoros,596292,Moroni,60200,Africa,1975,Comorian Franc,Islam,Arabic,French
+Cook Islands,21288,Avarua,?,Oceania,1965,NZ Dollar,Christianity,English,Maori
+Costa Rica,4016173,San Jose,1527300,Latin America,1821,Colon,Christianity,Spanish,English
+Cote d'Ivorie,12464000,Abidjan,1850000,Africa,1960,1960,-,French
+Croatia,4495904,Zagreb,685500,Europe,1991,Kuna,Catholicism,Croatian
+Cuba,11346670,Havana,2677938,Latin America,1902,Cuban Peso,-,Spanish
+Cyprus,775927,Nicosia,197600,Middle East,1960,Cypriot Pound;Turkish Lira,Orthodox;Muslim,Greek,Turkish,English
+Czech Republic,10241138,Prague,1378700,Europe,1993,Krona,Catholicism,Chech
+Democratic Republic of Congo,60085004,Kinshasa,6541300,Africa,1960,C'ese Franc,Catholicism;Islam,French,Lingala
+Denmark,5432335,Copenhagen,1343916,Europe,800,Danish Krone,Lutherian,Danish,Faroese
+Djibouti,476603,Djibouti,383000,Africa,1977,Djibouti Franc,Muslim,French,Arabic
+Dominica,69278,Roseau,?,Caribbean,1978,EC Dollar,Catholicism,English
+Dominican Republic,8833634,Santo Domingo,1600000,Latin America,1844,Dominican Peso,Catholicism,Spanish
+East Timor,1019252,Dili,?,Asia,1975,US Dollar,Catholicism,Tetu,Portuguese,Indonesian,English
+Ecuador,13212742,Quito,1994318,Latin America,1822,US Dollar,Catholicism,Spanish,Quechua
+Egypt,76117421,Cairo,15452000,Africa,1922,Egyptian Pound,Sunni Muslim,Arabic
+El Salvador,6587541,San Salvador,2100000,Latin America,1821,US Dollar,Catholicism,Spanish,Nahua
+England,50093800,London,11219000,Europe,1066,British Pound,Anglican;Catholisicm;Other,English
+Equatorial Guinea,523051,Malabo,?,Africa,1967,CFA Franc,Catholisism,Spanish,French
+Eritrea,4561599,Asmara,?,Africa,1993,Nakfa,Muslim;Catholisism,Tigrina,Arabic,English
+Estonia,1341664,Tallinn,?,Europe,1991,Kroon,Lutheran;Orthodox,Estonian,Russian,Finish
+Ethiopia,67617000,Addis Ababa,1495266,Africa,-1000,Birr,Muslim;Orthodox,Amharic,Tigrina
+Falkland Islands,2967,Stanley,?,South America,-,Falkland Pound,Catholicism,English
+Faroe Islands,46662,Torshavn,?,Europe,-,Danish Krone,Lutheran,Faroese,Danish
+Fiji,880874,Suva,?,Oceania,1970,Fijian Dollar,Christianity;Hindu;Muslim,English,Fijan,Hinustani
+Finland,520100,Helsinki,892240,Europe,1917,Euro,Lutheran,Finnish,Swedish
+France,66942000,Paris,3152423,Europe,486,Euro,Catholicism,French
+French Guiana,191309,Cayenne,66149,Latin America,-,Euro,Catholicism,French
+French Polynesia,266339,Papeete,?,Oceania,-,CFP Franc,Catholicism,French,Tahitian
+Gabon,1355246,Libreville,?,Africa,1960,CFA Franc,Christianity,French,Fang,Myene
+Gambia,1546848,Banjul,?,Africa,-,Dalasi,Muslim,English,Mandinka,Other
+Georgia,4693892,Tbilisi,1440000,Asia,1991,Lari,Orthodox,Georgian,Russian
+Germany,82424609,Berlin,4376800,Europe,1871,Euro,Catholicism,German
+Ghana,20757032,Accra,1249100,Africa,1957,Cedi,Christianity;Muslim,English,Akan,Ewe,Ga
+Gibraltar,27833,Gibraltar,?,Europe,-,Gibraltar Pound,Catholicism,English,Yanito
+Greece,10672000,Athens,3247000,Europe,1830,Euro,Greek Orthodox,Greek
+Greenland,56384,Nuuk,15361,Arctic Region,-,Danish Krone,Lutheran,Greenlandic,Danish
+Grenada,89357,Saint George's,4300,Caribbean,1974,EC Dollar,Catholicism,English,French
+Guadeloupe,444515,Basse-Terre,175000,Caribbean,-,Euro;French Franc,Catholicism,French,Creole
+Guam,166090,Hagatna,?,Oceania,-,US Dollar,Catholicism,English,Chamorro,Japanese
+Guatemala,14655189,Guatemala City,2655900,Latin America,1821,Quetzal,Catholicism;Mayan Beliefs,Spanish,Amerindian
+Guernsey,65031,Saint Peter Port,?,Europe,-,British Pound;Guernsey Pound,Catholicism,English,French
+Guinea,9246463,Conakry,1767200,Africa,1958,Guinean Franc,Muslim,French
+Guinea-Bissau,1388363,Bissau,296900,Africa,1974,CFA Franc,Indigeneous Beliefs;Muslim,Portuguese,Criolo
+Guyana,705803,Georgetown,227700,South America,1966,Guyanese Dollar,Christianity;Hindu;Muslim,English,Creole,Hindu,Urdu
+Haiti,7656166,Port-au-Prince,1764000,Latin America,1804,Gourde,Catholicism,Creole,French
+Holy See,921,Vatican City,921,Europe,1929,Euro,Christianity,Italian,Latin
+Honduras,6975204,Tegucigalpa,1436000,Latin America,1821,Lempira,Catholicism,Spanish,Amerindian Dialects
+Hong Kong,6943600,-,-,Orient,1997,Hong Kong Dollar,-,Cantonese,Mandarin,English
+Hungary,10032600,Budapest,2596132,Europe,1001,Forint,Catholicism,Hungarian
+Iceland,296737,Reykjavik,184200,Arctic Region,1918,Icelandic Krona,Lutheran,Icelandic,English,Nordic
+India,1080264388,New Delhi,17037900,Asia,1947,Rupee,Hindu;Muslim,English,Hindi,14 other
+Indonesia,241973879,Jakarta,17891000,Oceania,1945,Rupiah,Muslim,Malay,English,Dutch
+Iran,68017860,Tehran,11224800,Middle East,1979,Rial,Siah Muslim,Persian
+Iraq,26074906,Baghdad,6777300,Middle East,1932,New Iraqi Dinnar,Shia Muslim;Sunni Muslim,Arabic,Kurdish
+Ireland,4015676,Dublin,1018500,Europe,1921,Euro,Catholicism,English,Gaelic
+Isle of Man,76315,Douglas,25347,Europe,-,IoM Pound,Anglican,English,Manx Gaelic
+Israel,6276883,Jerusalem,695500,Middle East,1948,New Israeli Shekel,Jewish;Muslim,Hebrew,Arabic
+Italy,58103033,Rome,3550900,Europe,1861,Euro,Catholicism,Italian,German
+Jamaica,2731832,Kingston,937700,Caribbean,1962,Jamaican Dollar,Christianity,English
+Japan,127920000,Tokyo,31139900,Orient,-660,Yen,Shinto;Buddhism,Japanese
+Jersey,90502,Saint Helier,?,Europe,-,British Pound;Jersey Pound,Anglican,English,French
+Johnston Atoll,396,-,-,Oceania,-,US Dollar,-,English
+Jordan,5759732,Amman,2677500,Middle East,1946,Jordanian Dinar,Sunni Muslim,Arabic,English
+Kazakhstan,15185844,Astana,288200,Asia,1991,Tenge,Muslim;Orthodox,Kazakh,Russian
+Kenya,33905000,Nairobi,3064900,Africa,1963,Kenian Shilling,Protestant;Catholicism,Swahili,English
+Kiribati,103092,Tarawa,26600,Oceania,1979,Australian Dollar,Catholicism;Protestant,I-Kiribati,English
+Korea North,22697553,Pyongyang,3222000,Orient,1945,NK Won,Buddhism,Korean
+Korea South,48422644,Seoul,19969100,Orient,1945,SK Won,Christianity;Buddhism,Korean
+Kuwait,2335648,Kuwait,1709800,Middle East,1961,Kuwaiti Dinar,Islam,Arabic
+Kyrgyzstan,5146281,Bishkek,824900,Asia,1991,Kyrgyzstani Som,Muslim;Orthodox,Kyrgyz,Russian
+Laos,6217141,Vientiane,194200,Asia,1949,Kip,Buddhism;Other,Lao,French
+Latvia,2290237,Riga,867700,Europe,1991,Lat,Lutheran;Catholicism,Latvian,Russian
+Lebanon,3826018,Beirut,1916100,Middle East,1943,Lebanese Pound,Muslim;Christianity,Arabic,French
+Lesotho,1867035,Maseru,173700,Africa,1966,Loti,Christianity;Indigenous Beliefs,Sosetho,English,Zulu
+Liberia,3482211,Monrovia,1348900,Africa,1847,Liberian Dollar,Indigenous Beliefs;Christianity;Muslim,English,20+ other
+Libia,5765563,Tripoli,2357800,Africa,1951,Libyan Dinar,Muslim,Arabic
+Liechtenstein,33717,Vaduz,5300,Europe,1719,Swiss Franc,Catholicism,German
+Lithuania,3596617,Vilnius,543500,Europe,1990,Litas,Catholicism;Orthodox;Lutheran,Lithuanian,Polish,Russian
+Luxembourg,468571,Luxembourg,78800,Europe,1839,Euro,Catholicism,Luxembourgish,German,French
+Macedonia,2045262,Skopje,587300,Europe,1991,Macedonian Denar,Orthodox;Islam,Macedonian,Albanian
+Madagascar,18040341,Antananarivo,1390800,Africa,1960,Ariary,Indigenous Beliefs;Christianity,Malagasy,French
+Malawi,12158924,Lilongwe,499200,Africa,1964,Kwacha,Protestant;Catholicism;Islam,English
+Malaysia,23953136,Kuala Lumpur,3688200,Asia,1957,Ringgit,Muslim;Buddhism,Malay,English
+Maldives,349106,Male,81600,Asia,1965,Rufiyaa,Sunni Muslim,Sinhala,Arabic,English
+Mali,12291529,Bamako,1323200,Africa,1960,CFA Franc,Muslim,French,Bambara
+Malta,398534,Valletta,194200,Europe,1964,Maltese Lira,Catholicism,Maltese,English
+Marshall Islands,59071,Majuro,20500,Oceania,1986,US Dollar,Protestant,Marshallese,English
+Martinique,429510,Fort-de-France,?,Caribbean,-,Euro,Catholicism,French,Creole
+Mauritania,3086859,Nouakchot,661400,Africa,1960,Ouguiya,Muslim,Hassaniya Arabic,Wolof,Pulaar,Soninke,French
+Mauritius,1230602,Port Louis,577200,Indian Ocean,1968,Mauritian Rupee,Hindur;Christianity,English,Creole,French,Hindi
+Mayotte,186026,Mamoutzou,?,Africa,-,Euro,Muslim,Swahili,French
+Mexico,106202903,Mexico City,21233900,Latin America,1810,Peso,Catholicism,Spanish,Mayan,Nahuati
+Micronesia,108105,Palikir,11600,Oceania,1986,US Dollar,Catholicism,English,Chukese,7 other
+Moldova,4455421,Chisinau,772500,Europe,1991,Leu,Orthodox,Moldovan,Russian,Gagauz
+Monaco,32409,Monaco,1400,Europe,1419,Euro,Catholicism,French,English,Italian,Monegasque
+Mongolia,2791272,Ulaan Baatar,804200,Orient,1921,Tugrik,Buddhism,Mongolian,Turkic,Russian
+Montserrat,9245,Plymouth,0,Caribbean,-,EC Dollar,Anglican;Christianity,English
+Morocco,32725847,Rabat,1636600,Africa,1956,Dirham,Islam,Airabic,Berber,French
+Mozambique,19406703,Maputo,1691000,Africa,1975,Metical,Indigenous Beliefs;Christianity;Muslim,Portuguese
+Myanmar,42909464,Yangon,4344100,Asia,1948,Kyat,Buddhism,Burmese
+Namibia,2030692,Windhoek,221000,Africa,1990,Namibian Dollar;Rand,Christianity,English,Africaans
+Nauru,13048,Yaren,4900,Oceania,1968,Australian Dollar,Christianity,Nauruan,English
+Nepal,27676547,Kathmandu,1203100,Asia,1768,Nepalese Rupee,Hinduism,Nepali
+Netherlands,16407491,Amsterdam,737900,Europe,1579,Euro,Catholicism,Dutch,Frisian
+Netherlands Antillies,218126,Willemstad,?,Caribbean,-,Antellian Guilder,Catholicism,Duch,Papiamento
+New Caledonia,213679,Noumea,?,Oceania,-,Euro,Catholicism,French
+New Zealand,4035461,Wellington,342500,Oceania,1907,New Zealand Dollar,Anglican;Catholicism,English,Maori
+Nicaragua,5465100,Managua,1390500,Latin America,1821,Gold Cordoba,Catholicism,Spanish
+Niger,11665937,Niamey,748600,Africa,1960,CFA Franc,Muslim,French,Hausa,Djerma
+Nigeria,128771988,Abuja,590400,Africa,1960,Naira,Muslim;Christianity,English,Hausa,4 other
+Niue,2156,Alofi,?,Oceania,1974,New Zealand Dollar,Protestant;Catholicism,Niuean,English
+Norfolk Island,1841,Kingston,?,Oceania,-,Australian Dollar,Anglican;Catholicism,English,Old Tahitian
+Northern Mariana Islands,78252,Saipan,?,Oceania,-,US Dollar,Christianity,English,Chamorro
+Northern Ireland,1688600,Belfast,484800,Europe,-,British Pound,Catholicism;Protestant,English
+Norway,4593041,Oslo,791500,Europe,1905,Norwegian Krone,Lutheran,Norwegian
+Oman,3001583,Muscat,797000,Middle East,1650,Omani Rial,Muslim,Arabic,5 other
+Pakistan,162419946,Islamabad,601600,Asia,1947,Pakistani Rupee,Muslim,Punjabi,Sindhi,English,14 other
+Palau,20303,Koror,11100,Oceania,1994,US Dollar,Christianity;Modekngei,English,Palauan,4 other
+Palestinian State,3763900,?,?,Middle East,?,Shekel;Dinar,Islam;Jewish,Arabic,Hebrew,English
+Panama,3039150,Panama City,1053500,Latin America,1903,Balboa,Catholicism,Spanish
+Papua New Guinea,5545268,Port Moresby,324900,Oceania,1975,Kina,Catholicism;Lutheran,Melanesian,Motu
+Paraguay,6347884,Asuncion,1482200,Latin America,1811,Guarani,Catholicism,Spanish,Guarani
+Peru,27981000,Lima,8126000,Latin America,1821,Nuevo Sol,Catholicism,Spanish,Quechua
+Philippines,87854000,Manila,13790194,Asia,1898,Philippino Peso,Christianity,Filipino,English
+Pitcairn Islands,46,Adamstown,?,Oceania,-,New Zealand Dollar,Adventist,English,Pitcairnese
+Poland,38635114,Warsaw,2201900,Europe,1918,Zloty,Catholicism,Polish
+Portugal,10566212,Lisbon,2618100,Europe,1143,Euro,Catholicism,Portuguese,Mirandese
+Puerto Rico,3897960,San Juan,?,Caribbean,-,US Dollar,Catholicism,Spanish
+Qatar,840290,Doha,?,Middle East,1971,Qatari Rial,Muslim,Arabic
+Republic of The Congo,3800000,Brazzaville,1169900,Africa,1960,CFA Franc,Christianity,French
+Reunion,766153,Saint-Denis,?,Pacific Ocean,-,Euro,Catholicism;Hindu;Muslim;Buddhism,French,Creole
+Romania,22329977,Bucharest,2206894,Europe,1877,Leu,Orthodox,Romanian
+Russia,143420309,Moscow,11970500,Asia,1991,Ruble,Orthodox;Muslim,Russian
+Rwanda,8491000,Kigali,298100,Africa,1962,Rwandan Franc,Catholicism;Protestant,Kinyarwanda,French
+Saint Helena,7415,Jamestown,?,Africa,-,SH Pound,Anglican,English
+Saint Kitts and Nevis,38936,Basseterre,11500,Caribbean,1983,EC Dollar,Anglican,English Patois
+Saint Lucia,166312,Castries,60300,Caribbean,1979,EC Dollar,Catholicism,English,French
+Saint Pierre and Miquelon,6995,Saint-Pierre,?,North America,-,Euro,Catholicism,French
+Saint Vincent and the Grenadines,117534,Kingstown,17600,Caribbean,1979,EC Dollar,Anglican;Other,English,French Patois
+Samoa,117287,Apia,35900,Oceania,1962,Tala,Christianity,Samoan,English
+San Marino,28880,San Marino,4300,Europe,301,Euro,Catholicism,Italian
+Sao Tome and Principe,187410,Sao Tome,53300,Africa,1975,Dobra,Christianity,Portuguese
+Saudi Arabia,26417599,Riyadh,3724100,Middle East,1932,Saudi Riyal,Muslim,Arabic
+Scotland,5128000,Edinburgh,663700,Europe,-,British Pound,Catholicism,English,Gaelic
+Senegal,11126832,Dakar,2476400,Africa,1960,CFA Franc,Muslim,French,4 other
+Serbia and Montenegro,10829175,Belgrade,1717800,Europe,1992,New Yugoslav Dinar,Orthodox;Muslim,Serbian,Albanian
+Seychelles,81188,Victoria,23000,Africa,1976,Seychelles Rupee,Catholicism,English,French
+Sierra Leone,6017643,Freetown,1051000,Africa,1961,Leone,Muslim;Indigenous Beliefs,English,Mende,Temne,Krio
+Singapore,4425720,Singapore,3438600,Orient,1965,Singapore Dollar,Buddhism;Muslim;Other,Chinese,Malay,Tamil,English
+Slovakia,5431363,Bratislava,428800,Europe,1993,Slovak Koruna,Catholicism,Slovak,Hungarian
+Slovenia,2011070,Ljubljana,258000,Europe,1991,Tolar,Catholicism,Slovenian,Serbo-Croatian
+Solomon Islands,538032,Honiara,54600,Oceania,1978,SI Dolaar,Anglican;Catholicism,Somali,Arabic
+Somalia,8591629,Mogadishu,1208800,Africa,1960,Somali Shilling,Sunni Muslim,Somali,Arabic
+South Africa,44344136,Pretoria,1541300,Africa,1910,Rand,Christianity;Indigenous Beliefs,Afrikaans,English,9 other
+Spain,40341462,Madrid,5130000,Europe,700,Euro,Catholicism,Castilian Spanish,Catalan,Galician,Basque
+Sri Lanka,20064776,Colombo,2436000,Asia,1948,Sri Lanka Rupee,Buddhism;Hindu;Christianity;Muslim,Sinhala,Tamil
+Sudan,40187486,Khartoum,5717300,Africa,1956,Sudanese Dinar,Sunni Muslim;Indigenous Beliefs,Arabic,8 other
+Suriname,438144,Pramaribo,217300,South America,1975,Suinamese Dollar,Hindu;Muslim;Catholicism;Protestant,Dutch,6 other
+Svalbard,2756,Longyearbyen,?,Arctic Region,-,Norwegian Krone,?,Norwegian,Russian
+Swaziland,1173900,Manzini,75000,Africa,1968,Lilangeni,Zionism;Catholicism;Other,English,SiSwati
+Sweden,9001774,Stockholm,1622300,Europe,1523,Swedish Krona,Lutheran,Swedish
+Switzerland,7489370,Bern,122700,Europe,1291,Swiss Franc,Catholicism;Protestant,French,German,Italian
+Syria,18448752,Damascus,2381800,Middle East,1946,Syrian Pound,Muslim,Arabic,Kurdish,Armenian,Other
+Taiwan,22894384,Taipei,7871900,Orient,1945,Taiwan Dollar,Buddhism;Confucian;Taoism,Mandarin
+Tajikistan,7163506,Dushanbe,817100,Asia,1991,Somoni,Muslim,Tajik,Russian
+Tanzania,36766356,Dar es Salaam,2489800,Africa,1961,Tanzanian Shilling,Christianity;Muslim,Swahili,English
+Thailand,65444371,Bangkok,8838500,Asia,1238,Baht,Buddhism,Thai,English
+Togo,5681519,Lome,749700,Africa,1960,CFA Franc,Indigenous Beliefs;Christianity;Muslim,French,Other
+Tokelau,1405,-,-,Oceania,-,New Zealand Dollar,Christianity,Tokelauan,English
+Tonga,112422,Nuku'alofa,24500,Oceania,1970,Pa'anga,Christianity,Tongan,English
+Trinidad and Tobago,1088644,Port-of-Spain,263800,Caribbean,1962,T&T Dollar,Catholicism;Hindu;Anglican,English,Hindi
+Tunisia,10074951,Tunis,1660300,Africa,1956,Tunisian Dinar,Muslim,Arabic
+Turkey,69660559,Ankara,3582000,Middle East,1923,Turkish Lira,Muslim,Turkish,Kurdish,Arabic
+Turkmenistan,4952081,Ashgabat,727700,Asia,1991,Turkmen Manat,Muslim,Turkmen,Russian
+Turks and Caicos Islands,19959,Grand Turk,?,Caribbean,-,US Dollar,Christianity,English
+Tuvalu,11468,Funafuti,5300,Oceania,1978,Australian Dollar,Christianity,Tuvaluan,English,Other
+Uganda,27269482,Kampala,1461600,Africa,1962,Ugandan Shilling,Catholicism,English,Swahili
+Ukraine,47425336,Kiev,3296100,Europe,1991,Hryvnia,Orthodox,Ukranian,Russian,Polish
+United Arab Emirates,2563212,Abu Dabi,539800,Middle East,1971,Muslim,Arabic,Persian,English,Hindi,Urdu
+United States,295734134,Washington DC,570898,North America,1776,US Dollar,Catholicism;Protestant;Other,English,Spanish
+Uruguay,3415920,Montevideo,1745100,Latin America,1825,Uruguayan Peso,Catholicism,Spanish,Portunol
+Uzbekistan,26851195,Tashkent,3457500,Asia,1991,Sum,Muslim;Orthodox,Uzbek,Russian,Tajik
+Vanuatu,205754,Port-Villa,35300,Oceania,1980,Vatu,Presbyterian;Anglican;Catholicism,English,French,100+ Other
+Venezuela,25375281,Caracas,3517300,Latin America,1811,Bolivar,Catholicism,Spanish
+Vietnam,83535576,Hanoi,2543700,Orient,1945,Dong,Biddhism;HoaHao;Other,Vietnamese
+Virgin Islands,108775,Charlotte Amalie,?,Caribbean,?,US Dollar,Baptist;Catholicism,English,Spanish,Creole
+Wales,2905500,Cardiff,676400,Europe,-,British Pound,Methodist;Other,English,Welsh
+Wallis and Futuna,15880,Mata-Utu,?,Oceania,-,CFP Franc,Catholicism,French,Wallisian
+Western Sahara,273008,?,?,Africa,?,Maroccan Dirham,Muslim,Arabic
+Yemen,20727063,Sanaa,1778900,Middle East,1990,Yemeni Rial,Islam,Arabic
+Zambia,11261795,Lusaka,1773300,Africa,1964,Zambian Kwacha,Christianity;Muslim;Hindu,English,70+ Other
+Zimbabwe,12746990,Harare,2331400,Africa,1980,Zimbabwean Dollar,Christianity;Indigenous Beliefs,English,Shone,Sindebele

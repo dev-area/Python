@@ -1,0 +1,114 @@
+0        1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+M1    The Crab Nebula                   Supernova remnant       Taurus
+M2                                      Globular cluster        Aquarius
+M3                                      Globular cluster        Canes Venatici
+M4                                      Globular cluster        Scorpius
+M5                                      Globular cluster        Serpens Caput
+M6    Butterfly Cluster                 Open cluster            Scorpius
+M7    Ptolemy Cluster                   Open cluster            Scorpius
+M8    The Lagoon Nebula                 Starforming nebula      Sagittarius
+M9                                      Globular cluster        Ophiuchus
+M10                                     Globular cluster        Ophiuchus
+M11   Wild Duck Cluster                 Open cluster            Scutum
+M12                                     Globular cluster        Ophiuchus
+M13   Hercules Great Globular Cluster   Globular cluster        Hercules
+M14                                     Globular cluster        Ophiuchus
+M15   Cúmulo de Pegaso                  Globular cluster        Pegasus
+M16   Eagle Nebula                      Starforming nebula      Serpens Cauda
+M17   Swan Nebula                       Starforming nebula      Sagittarius
+M18                                     Open cluster            Sagittarius
+M19                                     Globular cluster        Ophiuchus
+M20   Trifid Nebula                     Starforming nebula      Sagittarius
+M21                                     Open cluster            Sagittarius
+M22   Sagittarius Cluster               Globular cluster        Sagittarius
+M23                                     Open cluster            Sagittarius
+M24   Sagittarius Star Cloud            Milky Way star cloud    Sagittarius
+M25                                     Open cluster            Sagittarius
+M26                                     Open cluster            Scutum
+M27   Dumbbell Nebula                   Planetary nebula        Vulpecula
+M28                                     Globular cluster        Sagittarius
+M29                                     Open cluster            Cygnus
+M30                                     Globular cluster        Capricornus
+M31   Andromeda Galaxy                  Spiral galaxy           Andromeda
+M32                                     Elliptical galaxy       Andromeda
+M33   Triangulum Galaxy                 Spiral galaxy           Triangulum
+M34                                     Open cluster            Perseus
+M35                                     Open cluster            Gemini
+M36                                     Open cluster            Auriga
+M37                                     Open cluster            Auriga
+M38                                     Open cluster            Auriga
+M39                                     Open cluster            Cygnus
+M40   Winnecke 4                        Double star             Ursa Major
+M41                                     Open cluster            Canis Major
+M42   Great Orion Nebula                Starforming nebula      Orion
+M43   De Mairan's Nebula                Starforming nebula      Orion
+M44   Beehive Cluster                   Open cluster            Cancer
+M45   Pleiades                          Open cluster            Taurus
+M46                                     Open cluster            Puppis
+M47                                     Open cluster            Puppis
+M48                                     Open cluster            Hydra
+M49                                     Elliptical galaxy       Virgo
+M50                                     Open cluster            Monoceros
+M51   Whirlpool Galaxy                  Spiral galaxy           Canes Venatici
+M52                                     Open cluster            Cassiopeia
+M53                                     Globular cluster        Coma Berenices
+M54                                     Globular cluster        Sagittarius
+M55                                     Globular cluster        Sagittarius
+M56                                     Globular cluster        Lyra
+M57   Ring Nebula                       Planetary nebula        Lyra
+M58                                     Spiral galaxy           Virgo
+M59                                     Elliptical galaxy       Virgo
+M60                                     Elliptical galaxy       Virgo
+M61                                     Spiral galaxy           Virgo
+M62                                     Globular cluster        Ophiuchus
+M63   Sunflower Galaxy                  Spiral galaxy           Canes Venatici
+M64   Black Eye Galaxy                  Spiral galaxy           Coma Berenices
+M65                                     Spiral galaxy           Leo
+M66                                     Spiral galaxy           Leo
+M67                                     Open cluster            Cancer
+M68                                     Globular cluster        Hydra
+M69                                     Globular cluster        Sagittarius
+M70                                     Globular cluster        Sagittarius
+M71                                     Globular cluster        Sagittarius
+M72                                     Globular cluster        Aquarius
+M73                                     Open cluster            Aquarius
+M74                                     Spiral galaxy           Pisces
+M75                                     Globular cluster        Sagittarius
+M76   Little Dumbell Nebula             Planetary nebula        Perseus
+M77                                     Spiral galaxy           Cetus
+M78                                     Diffuse nebula          Orion
+M79                                     Globular cluster        Lepus
+M80                                     Globular cluster        Scorpius
+M81   Bode's Galaxy                     Spiral galaxy           Ursa Major
+M82   Cigar Galaxy                      Irregular galaxy        Ursa Major
+M83   Southern Pinwheel Galaxy          Spiral galaxy           Hydra
+M84                                     Lenticular galaxy       Virgo
+M85                                     Lenticular galaxy       Coma Berenices
+M86                                     Lenticular galaxy       Virgo
+M87   Virgo A                           Elliptical galaxy       Virgo
+M88                                     Spiral galaxy           Coma Berenices
+M89                                     Elliptical galaxy       Virgo
+M90                                     Spiral galaxy           Virgo
+M91                                     Spiral galaxy           Coma Berenices
+M92                                     Globular cluster        Hercules
+M93                                     Open cluster            Puppis
+M94                                     Spiral galaxy           Canes Venatici
+M95                                     Spiral galaxy           Leo
+M96                                     Spiral galaxy           Leo
+M97   Owl Nebula                        Planetary nebula        Ursa Major
+M98                                     Spiral galaxy           Coma Berenices
+M99                                     Spiral galaxy           Coma Berenices
+M100                                    Spiral galaxy           Coma Berenices
+M101  Pinwheel Galaxy                   Spiral galaxy           Ursa Major
+M102  Spindle Galaxy (maybe)            Lenticular galaxy       Ursa Major
+M103                                    Open cluster            Cassiopeia
+M104  Sombrero Galaxy                   Spiral galaxy           Virgo
+M105                                    Elliptical galaxy       Leo
+M106                                    Spiral galaxy           Canes Venatici
+M107                                    Globular cluster        Ophiuchus
+M108                                    Spiral galaxy           Ursa Major
+M109                                    Spiral galaxy           Ursa Major
+M110                                    Elliptical galaxy       Andromeda
+
+--------------------------------------------------------------------------------
