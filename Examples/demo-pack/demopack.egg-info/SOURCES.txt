@@ -1,0 +1,12 @@
+664.jpg
+setup.py
+testpack1.py
+demopack/__init__.py
+demopack/chelpers.py
+demopack/numhelpers.py
+demopack.egg-info/PKG-INFO
+demopack.egg-info/SOURCES.txt
+demopack.egg-info/dependency_links.txt
+demopack.egg-info/top_level.txt
+images/1.jpg
+images/2.jpg
