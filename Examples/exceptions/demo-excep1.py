@@ -7,18 +7,21 @@ Created on Fri May 12 08:31:44 2017
 """
 
 import warnings
-import struct
 
-warnings.warn('Oops')
-print "Ending..." 
+def fn(a):
+    s=0;
+    if a>100:
+	       warnings.warn('Long Wait...')
+    for i in range(a):
+        s+=i
+    return s
+
+print "Start..."
 
 
-warnings.simplefilter('default')
+#warnings.simplefilter('default')
 #warnings.filterwarnings('error','.*')
 
+print(fn(1000))
 
-struct.pack('i', 1.111)
-
-print "Ending..." 
-
-
+print "Ending..."

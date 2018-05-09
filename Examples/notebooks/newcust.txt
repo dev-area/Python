@@ -1,0 +1,4 @@
+id,name,sum,city
+20,avi,1000,haifa
+30,dani,2000,tel aviv
+10,yosi,3000,yafo

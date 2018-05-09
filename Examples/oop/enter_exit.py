@@ -12,7 +12,7 @@ class A(object):
     def __exit__(self,exceptType, value, traceback):
         print 'exit', exceptType
 
-a1 = A()
+#a1 = A()
 with A() as a2:
     pass
 

@@ -14,6 +14,14 @@ def _isdigit(c):
    
     return  c.isdigit()
 
+def add3nums(a,b,c):
+    """ Test function
+        >>> a=add3nums(10,20,30)
+        >>> print a
+        60
+        """
+    return a+b+c
+
 def countdigit(st):
     """ This function count the number of digits 
         inside the input string
