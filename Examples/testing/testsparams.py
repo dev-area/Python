@@ -8,7 +8,7 @@ def test_nums(num):
     assert num < 4
 
 
-# class Test(unittest.TestCase):
-#     @params((1, 2), (2, 3), (4, 5))
-#     def test_less_than(self, a, b):
-#         assert a < b
+class Test(unittest.TestCase):
+     @params((1, 2), (2, 3), (4, 5))
+     def test_less_than(self, a, b):
+         assert a < b

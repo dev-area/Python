@@ -2,10 +2,11 @@ import unittest
 
 class Widget:
     def __init__(self, message):
+        print("new widget")
         self.__message = message
         self.__size = (50, 50)
     def dispose(self):
-        pass
+        print("end widget")
     def size(self):
         return self.__size
     def resize(self, w, h):
@@ -14,9 +15,11 @@ class Widget:
 
 class WidgetTestCase(unittest.TestCase):
     def setUp(self):
+        print("new case")
         self.widget = Widget('The widget')
 
     def tearDown(self):
+        print("end case")
         self.widget.dispose()
         self.widget = None
 
