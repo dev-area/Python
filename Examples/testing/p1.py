@@ -7,7 +7,7 @@ def f2(a, b):
     """
     great function
     >>> f2(2,3)
-    5
+    50
     >>> f2(4,8)
     12
     >>> f2(23,45)
@@ -22,3 +22,14 @@ if __name__ == '__main__':
     import doctest
 
     doctest.testmod()
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

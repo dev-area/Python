@@ -4,7 +4,7 @@ import unittest
 class TestStringMethods(unittest.TestCase):
     def test_upper(self):
         a='foo'.upper()
-        b="FOO"
+        b="FOtO"
         self.assertEqual(a, b)
 
     def test_isupper(self):
@@ -18,5 +18,5 @@ class TestStringMethods(unittest.TestCase):
         with self.assertRaises(TypeError):
             s.split(2)
 
-if __name__ == '__main__':
-    unittest.main()
+#if __name__ == '__main__':
+#    unittest.main()
