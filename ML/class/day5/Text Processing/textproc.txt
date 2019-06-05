@@ -1,0 +1,157 @@
+One field in Machine Learning is Natural Language Processing (NLP). It can be useful for example while building an automatic system to manipulate CVs. The user upload a CV document , we are looking for keywords and classify it based on the result
+As part of feature engineering, we create a new input features based on existing ones. Sometimes we have a description field and we want to look for something in that field
+Examples:
+	•	One or more words from a close set (sale, offer, buy, free, ...)
+	•	Two terms with a relation (python , machine learning)
+	•	Numbers
+To process to text we can use:
+	•	Python string type
+	•	Regular expressions
+	•	Dedicated packages
+ 
+Python Strings
+We can use python string methods for simple operations:
+	•	Split a string using a single separator
+	•	Find a substring
+	•	Count sub strings
+	•	Check some simple conditions (start with , ends with, digits, alpha, etc)
+It is very simple , you can read more in python official documentation
+
+Regular Expressions
+Regular expressions helps in a complex string manipulation. You need to learn the rules and the regex engine will do the job for you
+For complete guide look here
+Some examples that regular expressions can be used:
+
+Removing numbers
+import re
+
+str1 = 'string with456, some111 hello 888 numbers'
+txt = re.sub('[0-9]+', '', str1)
+print(txt)
+
+# string with, some hello  numbers
+ 
+Splitting with multiple separator (numbers, comma, spaces, plus, colon)
+import re
+
+str1 = 'string with456, some111:hello 888 num+bers'
+txt = re.split('[0-9,:+\s]+',str1)
+print(txt)
+
+# ['string', 'with', 'some', 'hello', 'num', 'bers']
+ 
+Find all numbers
+import re
+
+str1 = 'string with456, some111:hello 888 num+bers'
+txt = re.findall('[0-9]+', str1)
+print(txt)
+
+# ['456', '111', '888']
+ 
+Find 2 related words with up to 20 characters between them
+import re
+testy = 'The quick brown fox jumps over the lazy dog'
+
+m = re.search(r"(quick|slow).{1,20}(fox|camel)", testy)
+if m:
+    print 'Matched',m.groups()
+    print 'Starting at', m.start()
+    print 'Ending at', m.end()
+search for quick or slow followed by fox or camel (up to 20 characters far)
+ 
+Using Dedicated Packages
+You can find many packages for text handling, strings and NLP
+ 
+The string package
+The string package is not so useful but has some nice options
+Removing punctuation
+import string
+
+mess = 'strin.g with, so!me: punct,uation+'
+newmess = [char for char in mess if char not in string.punctuation]
+newmess = ''.join(newmess)
+
+print (nopunc)
+see also - string.digits, string.hexdigits, string.ascii_letters and more
+
+NLTK
+NLTKis a huge package with many natural language modules.
+one useful package for text preprocessing is stopwords , it helps with removing many stop words from our text (I , You , have, ....)
+first you need to download it:
+>>> import nltk
+>>> nltk.download('stopwords')
+Now we can use it to remove all stop words
+from nltk.corpus import stopwords
+
+allstopwords = stopwords.words('english')
+inputmessage = "I have to see the code today"
+outmessage = [word for word in inputmessage.split() if word.lower() not in allstopwords]
+print (outmessage)
+# ['see', 'code', 'today']
+This is not a post about NLTK , only an intro with a simple example , for more information, see the official site andÂ this blog post
+ 
+Scikit-learn Text processing
+scikit-learnis a very popular package for machine learning. It can be used to build many models for supervised and unsupervised learning
+One useful package for text preprocessing isÂ sklearn.feature_extraction.text .Â We can use it to extract and count words from a document, build a vocabulary and more
+for example, we have some documents:
+data = ['hello world',
+        'have a good day',
+        'hello all',
+        'how are you',
+        'hello and have a nice day'
+        ]
+To build a vocabulary from it:
+from sklearn.feature_extraction.text import CountVectorizer
+
+trans = CountVectorizer().fit(data)
+print(trans.vocabulary_)
+
+#{ u'and': 1,
+#  u'all': 0,
+#  u'good': 4,
+#  u'hello': 6,
+#  u'how': 7,
+#  u'are': 2,
+#  u'have': 5,
+#  u'world': 9,
+#  u'you': 10,
+#  u'day': 3,
+#  u'nice': 8 }
+transform it:
+tr=trans.transform(data)
+print (tr)
+
+'''
+  (0, 6)        1
+  (0, 9)        1
+  (1, 3)        1
+  (1, 4)        1
+  (1, 5)        1
+  (2, 0)        1
+  (2, 6)        1
+  (3, 2)        1
+  (3, 7)        1
+  (3, 10)       1
+  (4, 1)        1
+  (4, 3)        1
+  (4, 5)        1
+  (4, 6)        1
+  (4, 8)        1
+'''
+We can see from the results that on the first document we have words 6,9 on the second 3,4,5 and so on
+To count all words in all documents we need to convert it to a numpy array and sum it on axis 0:
+In [10]: tr.toarray()
+Out[10]:
+array([[0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0],
+       [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0],
+       [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+       [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1],
+       [0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0]])
+
+In [11]: tr.toarray().sum(axis=0)
+Out[107]:
+array([1, 1, 1, 2, 1, 2, 3, 1, 1, 1, 1])
+Word with index 0 ==> count = 1
+Word with index 3 ==> count = 2
+and so on
